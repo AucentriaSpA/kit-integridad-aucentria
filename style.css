@@ -647,12 +647,12 @@ footer {
 
 }
 
-.footer-content a {
+    .footer-content a {
     color: #b8c7d4;
     text-decoration: none;
-}
+    }
 
-.footer-content a:hover {
+    .footer-content a:hover {
     color: #ffffff;
     text-decoration: underline;
 }
